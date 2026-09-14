@@ -1,6 +1,6 @@
 # Andrew Fernando | Personal Portfolio 🖥️
 
-![Portfolio Screenshot](images/Portfolio_website.png)
+![Portfolio Screenshot](Assets/ss.png)
 
 Welcome to my personal portfolio repository!  
 This is a modern, interactive portfolio website designed to showcase my coding projects, technical skills, and engineering journey. It is built with a focus on an immersive user experience, utilizing modern web technologies, sleek animations, and 3D graphics.
